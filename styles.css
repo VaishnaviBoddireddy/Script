@@ -18,3 +18,12 @@ input[type=search]{
   display: block;
   margin: 5 px;
 }
+.red{
+  background: gray;
+  )
+.blue{
+  background: gold;
+}
+.green{
+    background: cream;
+  }
