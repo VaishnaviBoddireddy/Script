@@ -16,17 +16,17 @@ input[type=search]{
   margin: 5 px;
 }
 .red{
-  background: #c71226;
+  background: red;
   height: 100 px;
   margin-top: 10 px;
   )
 .blue{
-  background: #0d1b88;
+  background: gold;
   height: 100 px;
   margin-top: 10 px;
 }
 .green{
-    background: #397372;
+    background: brown;
     height: 100 px;
     margin-top: 10 px;
   }
