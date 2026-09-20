@@ -11,3 +11,6 @@ body{
 img{
   background: black;
 }
+input[type=search]{
+  width: 200 px;
+}
