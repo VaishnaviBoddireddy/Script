@@ -1,1 +1,4 @@
-console.log("Project initialized successfully.");
+favouriteMovieGenre("space")
+favouriteFruit("avacado")
+favouriteMode("dark")
+favouriteEdgeStyle("sharp")
