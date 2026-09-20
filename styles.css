@@ -16,4 +16,5 @@ img{
 input[type=search]{
   width: 200 px;
   display: block;
+  margin: 5 px;
 }
